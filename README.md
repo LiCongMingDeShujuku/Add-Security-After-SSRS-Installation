@@ -1,4 +1,4 @@
-![CLEVER DATA GIT REPO](https://github.com/licongmingdeshujuku/git-resources/blob/master/images/0-clever-data-github.png "李聪明 数据")
+![CLEVER DATA GIT REPO](https://raw.githubusercontent.com/LiCongMingDeShujuku/git-resources/master/0-clever-data-github.png "李聪明 数据")
 
 
 # SSRS安装后配置安全性
@@ -77,6 +77,6 @@ You're done
 ## License
 [![LicenseCCSA](https://img.shields.io/badge/License-CreativeCommonsSA-<COLOR>.svg)](https://creativecommons.org/share-your-work/licensing-types-examples/)
 
-![Lee Songming](https://github.com/licongmingdeshujuku/git-resources/blob/master/images/1-clever-data-github.png "李聪明 数据")
+![Lee Songming](https://raw.githubusercontent.com/LiCongMingDeShujuku/git-resources/master/1-clever-data-github.png "李聪明 数据")
 
 
